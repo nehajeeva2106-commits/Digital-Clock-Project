@@ -99,7 +99,7 @@ The complete project documentation is available in a single PDF file, which incl
 
 ## Contributors
 
-* Neha J
-* Sakthivel V
-* Dhanyaa S K
+* Neha 
+* Sakthivelv
+* Dhanyaask
 
